@@ -1,0 +1,24 @@
+{
+  "unique_images": 1490,
+  "news_image_associations": 1556,
+  "duplicates_merged": 66,
+  "source_bytes": 340971079,
+  "sources": {
+    "videocardz.com": 143,
+    "tomshardware.com": 514,
+    "techpowerup.com": 627,
+    "guru3d.com": 266,
+    "ollama.com": 2,
+    "reactos.org": 1,
+    "eu.store.ui.com": 1,
+    "anbernic.com": 1,
+    "github.com": 1
+  },
+  "resolution_classes": {
+    "media": 205,
+    "alta": 640,
+    "miniatura": 645
+  },
+  "missing_source_images": 91,
+  "gps_metadata_removed_images": 17
+}
